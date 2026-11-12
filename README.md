@@ -67,6 +67,6 @@ No license file is present in the repository. Reuse and redistribution terms are
 
 ## Maintenance & audit
 
-- **Audit date:** 11 November 2026
+- **Audit date:** 12 November 2026
 - **Scope:** Documentation-only review of the two C source files and repository layout.
 - **Verification:** The source was inspected for documentation accuracy, but it was not compiled or executed during this pass. No source-code changes were made.
